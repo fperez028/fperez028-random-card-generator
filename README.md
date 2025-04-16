@@ -1,5 +1,5 @@
 # See this project live
-https://fperez028-miamipt78-random-card-generator.vercel.app/ <br>
+https://fperez028-random-card-generator.vercel.app/ <br>
 
 Notes: <br>
 Generates a random playing card on window load, refresh, or button click <br>
